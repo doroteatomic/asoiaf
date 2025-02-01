@@ -160,7 +160,7 @@ section p {
     font-family: 'Cinzel', serif;
 }
 
-/*Adjusts content for smaller screens*/
+
 @media (max-width: 768px) {
     .section-content {
       flex-direction: column; 
